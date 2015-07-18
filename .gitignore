@@ -58,5 +58,5 @@ docs/_build/
 target/
 
 # Project specific
-api_keys.py
+req-deq/api_keys.py
 .idea/
